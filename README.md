@@ -1,3 +1,3 @@
 # spaceShooter2D
 
-A Unity project forc 2D game
+A Unity project for 2D game
